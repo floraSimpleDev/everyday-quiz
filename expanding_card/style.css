@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: "Poppins", sans-serif;
+}
+
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.container {
+    display: flex;
+    width: 90vw;
+}
+
+.container .slide {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    border-radius: 50px;
+    color: #fff;
+    cursor: pointer;
+    flex: 0.5;
+    margin: 10px;
+    position: relative;
+    transition: all 700ms ease-in;
+}
+
+.container .slide:first-child {
+    background-image: url(images/g-4.jpg);
+}
+
+.container .slide:nth-child(2) {
+    background-image: url(images/g-8.jpg);
+}
+
+.container .slide:nth-child(3) {
+    background-image: url(images/g-6.jpg);
+}
+
+.container .slide:nth-child(4) {
+    background-image: url(images/p-1.jpg);
+}
+
+.container .slide:last-child {
+    background-image: url(images/p-4.jpg);
+}
+
+.container .slide h3 {
+    font-size: 24px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    margin: 0;
+    opacity: 0;
+}
+
+.container .slide.active {
+    flex: 5;
+}
+
+.container .slide.active h3 {
+    opacity: 1;
+    transition: opacity 0.3s ease-in 0.4s;
+}
+
+@media (max-width: 480px) {
+    .container {
+        width: 100vw;
+    }
+
+    .slide:nth-child(4),
+    .slide:last-child {
+        display: none;
+    }
+}
