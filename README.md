@@ -3,4 +3,5 @@
 02 [progress_steps](https://github.com/floraSimpleDev/everyday-quiz/tree/main/progress_steps)<br>
 03 [rotating_navigation_animation](https://github.com/floraSimpleDev/everyday-quiz/tree/main/rotating_navigation_animation)<br>
 04 [hidden_search_widget](https://github.com/floraSimpleDev/everyday-quiz/tree/main/hidden_search_widget)<br>
-05 []()<br>
+05 [blurry_loading](https://github.com/floraSimpleDev/everyday-quiz/tree/main/blurry_loading)<br>
+06 []()<br>
