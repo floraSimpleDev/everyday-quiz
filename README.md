@@ -6,6 +6,6 @@
 05 [blurry_loading](https://github.com/floraSimpleDev/everyday-quiz/tree/main/blurry_loading)<br>
 06 [split_landing_page](https://github.com/floraSimpleDev/everyday-quiz/tree/main/split_landing_page)<br>
 07 [scroll_animation](https://github.com/floraSimpleDev/everyday-quiz/tree/main/scroll_animation)<br>
-08 []()<br>
+08 [form_wave](https://github.com/floraSimpleDev/everyday-quiz/tree/main/form_wave)<br>
 09 []()<br>
 10 []()<br>
