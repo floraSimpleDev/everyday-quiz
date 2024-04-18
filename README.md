@@ -4,4 +4,8 @@
 03 [rotating_navigation_animation](https://github.com/floraSimpleDev/everyday-quiz/tree/main/rotating_navigation_animation)<br>
 04 [hidden_search_widget](https://github.com/floraSimpleDev/everyday-quiz/tree/main/hidden_search_widget)<br>
 05 [blurry_loading](https://github.com/floraSimpleDev/everyday-quiz/tree/main/blurry_loading)<br>
-06 []()<br>
+06 [split_landing_page](https://github.com/floraSimpleDev/everyday-quiz/tree/main/split_landing_page)<br>
+07 []()<br>
+08 []()<br>
+09 []()<br>
+10 []()<br>
