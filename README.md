@@ -10,7 +10,7 @@
 09 [event_key_codes](https://github.com/floraSimpleDev/everyday-quiz/tree/main/event_key_codes)<br>
 10 [dad_joke](https://github.com/floraSimpleDev/everyday-quiz/tree/main/dad_joke)<br>
 11 [sound-board](https://github.com/floraSimpleDev/everyday-quiz/tree/main/sounde_board)<br>
-12 []()<br>
+12 [faq_collapse](https://github.com/floraSimpleDev/everyday-quiz/tree/main/faq_collapse)<br>
 13 []()<br>
 14 []()<br>
 15 []()<br>
