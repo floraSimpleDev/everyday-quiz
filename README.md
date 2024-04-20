@@ -12,7 +12,7 @@
 11 [sound-board](https://github.com/floraSimpleDev/everyday-quiz/tree/main/sounde_board)<br>
 12 [faq_collapse](https://github.com/floraSimpleDev/everyday-quiz/tree/main/faq_collapse)<br>
 13 [random_choice_picker](https://github.com/floraSimpleDev/everyday-quiz/tree/main/random_choice_picker)<br>
-14 []()<br>
+14 [animated_navigation](https://github.com/floraSimpleDev/everyday-quiz/tree/main/animated_navigation)<br>
 15 []()<br>
 16 []()<br>
 17 []()<br>
